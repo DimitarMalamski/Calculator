@@ -1,0 +1,6 @@
+#main-body {
+   position: fixed;
+   top: 50%;
+   left: 50%;
+   background-color: grey;
+}
